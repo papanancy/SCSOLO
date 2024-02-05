@@ -1,0 +1,265 @@
+{
+  "apps": [
+    {
+      "status": 1,
+      "redirect_url": "",
+      "privacy_policy_url": "",
+      "email_feedback_and_report": "mediajackpot2023@gmail.com",
+      "webview_cache": true,
+      "post_list_in_large_style": true,
+      "show_post_list_header": true,
+      "show_post_detail_image": true,
+      "show_post_detail_title": true,
+      "show_post_detail_category": true,
+      "show_related_posts": true,
+      "enable_rtl_mode": false,
+      "enable_exit_dialog": true,
+      "enable_app_protection": false,
+      "enable_dark_mode_as_default_theme": false,
+      "base64_license_key": ""
+    }
+  ],
+  "ads": [
+    {
+      "ad_status": 1,
+      "main_ad": "fan",
+      "backup_ad": "none",
+      "admob_banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
+      "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
+      "admob_native_unit_id": "ca-app-pub-3940256099942544/2247696110",
+      "admob_app_open_unit_id": "ca-app-pub-3940256099942544/3419835294",
+      "ad_manager_banner_unit_id": "/6499/example/banner",
+      "ad_manager_interstitial_unit_id": "/6499/example/interstitial",
+      "ad_manager_native_unit_id": "/6499/example/native",
+      "ad_manager_app_open_unit_id": "/6499/example/app-open",
+      "fan_banner_unit_id": "",
+      "fan_interstitial_unit_id": "",
+      "fan_native_unit_id": "",
+      "startapp_app_id": "0",
+      "unity_game_id": "4089993",
+      "unity_banner_placement_id": "banner",
+      "unity_interstitial_placement_id": "video",
+      "applovin_banner_unit_id": "0",
+      "applovin_interstitial_unit_id": "0",
+      "applovin_native_manual_unit_id": "0",
+      "applovin_open_ad_unit_id": "0",
+      "applovin_banner_zone_id": "0",
+      "applovin_banner_mrec_zone_id": "0",
+      "applovin_interstitial_zone_id": "0",
+      "ironsource_app_key": "85460dcd",
+      "ironsource_banner_id": "DefaultBanner",
+      "ironsource_interstitial_id": "DefaultInterstitial",
+      "wortise_app_id": "test-app-id",
+      "wortise_banner_id": "test-banner",
+      "wortise_interstitial_id": "test-interstitial",
+      "wortise_native_id": "test-native",
+      "wortise_app_open_id": "test-app-open",
+      "interstitial_ad_interval": 1,
+      "native_ad_index": 1,
+      "native_ad_interval": 4,
+      "native_ad_style": "medium",
+      "native_ad_post_details_position": "top",
+      "show_banner_ad_home": true,
+      "show_banner_ad_post_details": true,
+      "show_banner_ad_category_details": true,
+      "show_banner_ad_search": true,
+      "show_interstitial_ad_post_list": true,
+      "show_interstitial_ad_post_details": true,
+      "show_native_ad_post_list": true,
+      "show_native_ad_post_details": true,
+      "show_native_ad_exit_dialog": true,
+      "show_open_ad_on_app_start": true,
+      "show_open_ad_on_app_resume": true
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Tips",
+      "image": "https://raw.githubusercontent.com/papanancy/sanggertheloos/main/CATEGORY/Tips.png"
+    },
+    {
+      "id": 2,
+      "name": "Trick",
+      "image": "https://raw.githubusercontent.com/papanancy/sanggertheloos/main/CATEGORY/Trick.png"
+   }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "category": "Tips",
+      "title": "TIPS MEMINJAM DI DUITKILAT",
+      "image": "https://raw.githubusercontent.com/papanancy/sanggertheloos/main/imgCONTENT/img01.jpg",
+      "content": "https://raw.githubusercontent.com/papanancy/sanggertheloos/main/CONTENTHTML/1.TIPS%20MEMINJAM%20DI%20DUITKILAT.html",
+      "video": ""
+    },
+    {
+      "id": 2,
+      "category": "Tips",
+      "title": "Tips Pinjaman Online OJK Limit Besar yang Aman dan Nyaman",
+      "image": "https://raw.githubusercontent.com/papanancy/sanggertheloos/main/imgCONTENT/img02.jpg",
+      "content": "https://raw.githubusercontent.com/papanancy/sanggertheloos/main/CONTENTHTML/2.Tips%20Pinjaman%20Online%20OJK%20Limit%20Besar%20yang%20Aman%20dan%20Nyaman.html",
+      "video": ""
+    },
+    {
+      "id": 3,
+      "category": "Tips",
+      "title": "Ikuti 7 Hal Ini agar Cepat Cair",
+      "image": "https://raw.githubusercontent.com/papanancy/sanggertheloos/main/imgCONTENT/img03.jpg",
+      "content": "https://raw.githubusercontent.com/papanancy/sanggertheloos/main/CONTENTHTML/3.Ikuti%207%20Hal%20Ini%20agar%20Cepat%20Cair.html",
+      "video": ""
+    },
+    {
+      "id": 4,
+      "category": "Tips",
+      "title": "Inilah 341 Daftar Pinjol Ilegal Terbaru Januari 2024",
+      "image": "https://raw.githubusercontent.com/papanancy/sanggertheloos/main/imgCONTENT/img04.jpg",
+      "content": "https://raw.githubusercontent.com/papanancy/sanggertheloos/main/CONTENTHTML/4.Inilah%20341%20Daftar%20Pinjol%20Ilegal%20Terbaru%20Januari%202024.html",
+      "video": ""
+    },
+    {
+      "id": 5,
+      "category": "Tips",
+      "title": "PENTING! SIMAK BEDANYA, INI CIRI-CIRI PINJOL LEGAL DAN ILEGAL",
+      "image": "https://raw.githubusercontent.com/papanancy/sanggertheloos/main/imgCONTENT/img05.jpg",
+      "content": "https://raw.githubusercontent.com/papanancy/sanggertheloos/main/CONTENTHTML/5.PENTING!%20SIMAK%20BEDANYA%2C%20INI%20CIRI-CIRI%20PINJOL%20LEGAL%20DAN%20ILEGAL.html",
+      "video": ""
+    },
+    {
+      "id": 6,
+      "category": "Tips",
+      "title": "Perhatikan dan Pahami Syarat Serta Ketentuan yang Ditetapkan",
+      "image": "https://raw.githubusercontent.com/papanancy/sanggertheloos/main/imgCONTENT/img06.jpg",
+      "content": "https://raw.githubusercontent.com/papanancy/sanggertheloos/main/CONTENTHTML/6.Perhatikan%20dan%20Pahami%20Syarat%20Serta%20Ketentuan%20yang%20Ditetapkan.html",
+      "video": ""
+    },
+    {
+      "id": 7,
+      "category": "Tips",
+      "title": "Begini Trik Agar Pinjaman Online di-Acc dan Cepat Cair",
+      "image": "https://raw.githubusercontent.com/papanancy/sanggertheloos/main/imgCONTENT/img07.jpg",
+      "content": "https://raw.githubusercontent.com/papanancy/sanggertheloos/main/CONTENTHTML/7.Begini%20Trik%20Agar%20Pinjaman%20Online%20di-Acc%20dan%20Cepat%20Cair.html",
+      "video": ""
+    },
+    {
+      "id": 8,
+      "category": "Tips",
+      "title": "Cara Lolos Pinjol Data Busuk",
+      "image": "https://raw.githubusercontent.com/papanancy/sanggertheloos/main/imgCONTENT/img01.jpg",
+      "content": "https://raw.githubusercontent.com/papanancy/sanggertheloos/main/CONTENTHTML/8.Cara%20Lolos%20Pinjol%20Data%20Busuk.html",
+      "video": ""
+    },
+    {
+      "id": 9,
+      "category": "Tips",
+      "title": "Pinjol Data Busuk Cair 2024",
+      "image": "https://raw.githubusercontent.com/papanancy/sanggertheloos/main/imgCONTENT/img02.jpg",
+      "content": "https://raw.githubusercontent.com/papanancy/sanggertheloos/main/CONTENTHTML/9.Pinjol%20Data%20Busuk%20Cair%202024.html",
+      "video": ""
+    },
+    {
+      "id": 10,
+      "category": "Tips",
+      "title": "Joki Pinjol Data Busuk",
+      "image": "https://raw.githubusercontent.com/papanancy/sanggertheloos/main/imgCONTENT/img03.jpg",
+      "content": "https://raw.githubusercontent.com/papanancy/sanggertheloos/main/CONTENTHTML/10.Joki%20Pinjol%20Data%20Busuk.html",
+      "video": ""
+    },
+    {
+      "id": 11,
+      "category": "Trick",
+      "title": "Pinjol Gampang Cair Data Busuk",
+      "image": "https://raw.githubusercontent.com/papanancy/sanggertheloos/main/imgCONTENT/img04.jpg",
+      "content": "https://raw.githubusercontent.com/papanancy/sanggertheloos/main/CONTENTHTML/11.Pinjol%20Gampang%20Cair%20Data%20Busuk.html",
+	  "video": ""
+    },
+    {
+	  "id": 12,
+      "category": "Trick",
+      "title": "Cara Bobol Pinjol Pakai Data Busuk",
+      "image": "https://raw.githubusercontent.com/papanancy/sanggertheloos/main/imgCONTENT/img05.jpg",
+      "content": "https://raw.githubusercontent.com/papanancy/sanggertheloos/main/CONTENTHTML/12.Cara%20Bobol%20Pinjol%20Pakai%20Data%20Busuk.html",
+      "video": ""
+    },
+    {
+      "id": 13,
+      "category": "Trick",
+      "title": "Tips Mengatur Keuangan Agar Kamu Tidak Terjerat Pinjol Ilegal",
+      "image": "https://raw.githubusercontent.com/papanancy/sanggertheloos/main/imgCONTENT/img06.jpg",
+      "content": "https://raw.githubusercontent.com/papanancy/sanggertheloos/main/CONTENTHTML/13.Tips%20Mengatur%20Keuangan%20Agar%20Kamu%20Tidak%20Terjerat%20Pinjol%20Ilegal.html",
+      "video": ""
+    },
+    {
+      "id": 14,
+      "category": "Trick",
+      "title": "1. Buatlah perencanaan keuangan yang baik",
+      "image": "https://raw.githubusercontent.com/papanancy/sanggertheloos/main/imgCONTENT/img07.jpg",
+      "content": "https://raw.githubusercontent.com/papanancy/sanggertheloos/main/CONTENTHTML/14.1.%20Buatlah%20perencanaan%20keuangan%20yang%20baik.html",
+      "video": ""
+    },
+    {
+      "id": 15,
+      "category": "Trick",
+      "title": "2. Tingkatkan literasi keuangan",
+      "image": "https://raw.githubusercontent.com/papanancy/sanggertheloos/main/imgCONTENT/img08.jpg",
+      "content": "https://raw.githubusercontent.com/papanancy/sanggertheloos/main/CONTENTHTML/15.2.%20Tingkatkan%20literasi%20keuangan.html",
+      "video": ""
+    },
+    {
+      "id": 16,
+      "category": "Trick",
+      "title": "3. Atur sesuai skala prioritas",
+      "image": "https://raw.githubusercontent.com/papanancy/sanggertheloos/main/imgCONTENT/img09.jpg",
+      "content": "https://raw.githubusercontent.com/papanancy/sanggertheloos/main/CONTENTHTML/16.3.%20Atur%20sesuai%20skala%20prioritas.html",
+      "video": ""
+    },
+    {
+      "id": 17,
+      "category": "Trick",
+      "title": "4. Pilih produk investasi dan tabungan dengan tepat",
+      "image": "https://raw.githubusercontent.com/papanancy/sanggertheloos/main/imgCONTENT/img10.jpg",
+      "content": "https://raw.githubusercontent.com/papanancy/sanggertheloos/main/CONTENTHTML/17.4.%20Pilih%20produk%20investasi%20dan%20tabungan%20dengan%20tepat.html",
+      "video": ""
+    },
+    {
+      "id": 18,
+      "category": "Trick",
+      "title": "5. Jangan FOMO",
+      "image": "https://raw.githubusercontent.com/papanancy/sanggertheloos/main/imgCONTENT/img01.jpg",
+      "content": "https://raw.githubusercontent.com/papanancy/sanggertheloos/main/CONTENTHTML/18.5.%20Jangan%20FOMO.html",
+      "video": ""
+    },
+    {
+      "id": 19,
+      "category": "Trick",
+      "title": "6. Hindari window shopping",
+      "image": "https://raw.githubusercontent.com/papanancy/sanggertheloos/main/imgCONTENT/img02.jpg",
+      "content": "https://raw.githubusercontent.com/papanancy/sanggertheloos/main/CONTENTHTML/19.6.%20Hindari%20window%20shopping.html",
+      "video": ""
+    },
+    {
+      "id": 20,
+      "category": "Trick",
+      "title": "7. Pinjamlah hanya untuk kebutuhan yang produktif bukan konsumtif",
+      "image": "https://raw.githubusercontent.com/papanancy/sanggertheloos/main/imgCONTENT/img03.jpg",
+      "content": "https://raw.githubusercontent.com/papanancy/sanggertheloos/main/CONTENTHTML/20.7.%20Pinjamlah%20hanya%20untuk%20kebutuhan%20yang%20produktif%20bukan%20konsumtif.html",
+      "video": ""
+    },
+    {
+      "id": 21,
+      "category": "Trick",
+      "title": "8. Hindari gali lubang tutup lubang",
+      "image": "https://raw.githubusercontent.com/papanancy/sanggertheloos/main/imgCONTENT/img04.jpg",
+      "content": "",
+      "video": ""
+    }
+  ],
+  "more_apps": [
+    {
+      "id": 1,
+      "title": "Spinjam",
+      "image": "https://raw.githubusercontent.com/papanancy/sanggertheloos/main/MOREAPPS/icon.png",
+      "url": "https://play.google.com/store/apps/details?id=com.jalansatuem.spinjamshopee"
+    }
+  ]
+}
